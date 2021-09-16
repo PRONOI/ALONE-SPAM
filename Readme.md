@@ -13,6 +13,7 @@
 ### 𝐒𝐓𝐑𝐈𝐍𝐆 𝐒𝐄𝐒𝐒𝐈𝐎𝐍🔥
 𝐍𝐨 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭 𝐨𝐟 𝐀𝐏𝐈 𝐈𝐃 𝐚𝐧𝐝 𝐀𝐏𝐈 𝐇𝐀𝐒𝐇
 
-   - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/MrRizoel/RiZoeLSpamBot)](https://replit.com/@RiZoeL/RiZoeL-Spam-bot)
+   
+- Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/MrRizoel/RiZoeLSpamBot)](https://replit.com/@RiZoeL/RiZoeL-Spam-bot)
 
 # 𝐢𝐅 𝐔 𝐋𝐈𝐊𝐄 𝐓𝐇𝐈𝐒 𝐑𝐄𝐏𝐎,𝐓𝐇𝐀𝐍 𝐆𝐈𝐕𝐄 𝐀 𝐇𝐄𝐀𝐑𝐓 𝐏𝐋𝐄𝐀𝐒𝐄🖤
