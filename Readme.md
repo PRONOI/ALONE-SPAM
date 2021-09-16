@@ -9,7 +9,7 @@
 # ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ 
 # 𝐃𝐞𝐩𝐥𝐨𝐲 𝐮𝐩 𝐭𝐨 𝟐𝟓 𝐛𝐨𝐭 𝐢𝐧 𝐨𝐧𝐞 𝐭𝐢𝐦𝐞🤍
 ## 🚀 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/PRONOI/ALONE-SPAM")
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://https://github.com/PRONOI/ALONE-SPAM")
 ### 𝐒𝐓𝐑𝐈𝐍𝐆 𝐒𝐄𝐒𝐒𝐈𝐎𝐍🔥
 𝐍𝐨 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭 𝐨𝐟 𝐀𝐏𝐈 𝐈𝐃 𝐚𝐧𝐝 𝐀𝐏𝐈 𝐇𝐀𝐒𝐇
 
