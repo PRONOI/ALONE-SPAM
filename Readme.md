@@ -22,10 +22,10 @@
 
 <details>
 
-  <summary> • CREDITS👀 • </summary>
-<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
+  <summary> • CREDITS • </summary>
+<h2 align="center"> <a href="https://github.com/MrRizoel/RiZoeLBotSpam">💥 𝐑𝐢𝐙𝐨𝐞𝐋 💥</a></h2>
  One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 </details>
 
-<details>
+
