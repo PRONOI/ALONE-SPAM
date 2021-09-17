@@ -5,6 +5,17 @@
 </p>
 
 # ᴄʀᴇᴀᴛᴏʀ
+Before clicking on deploy to heroku just click on fork and star just below
+
+<p align="center">
+  <a href="https://github.com/PRONOI/ALONE-SPAM/fork">
+    <img src="https://img.shields.io/https://github.com/PRONOI/ALONE-SPAM?label=Fork&style=social">
+    
+  </a>
+  <a href="https://github.com/PRONOI/ALONE-SPAM">
+    <img src="https://img.shields.io/github/stars/PRONOI/ALONE-SPAM?style=social">
+  </a>
+</p>
  
 # ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ 
 # 𝐃𝐞𝐩𝐥𝐨𝐲 𝐮𝐩 𝐭𝐨 𝟐𝟓 𝐛𝐨𝐭 𝐢𝐧 𝐨𝐧𝐞 𝐭𝐢𝐦𝐞🤍
