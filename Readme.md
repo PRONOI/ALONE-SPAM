@@ -18,7 +18,7 @@
 </p>
  
 # ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ 
-# 𝐃𝐞𝐩𝐥𝐨𝐲 𝐮𝐩 𝐭𝐨 𝟐𝟓 𝐛𝐨𝐭 𝐢𝐧 𝐨𝐧𝐞 𝐭𝐢𝐦𝐞🤍
+# 𝐃𝐞𝐩𝐥𝐨𝐲 𝐮𝐩 𝐭𝐨 𝟐𝟓 𝐛𝐨𝐭 𝐢𝐧 𝐨𝐧𝐞 𝐭𝐢𝐦𝐞
 ## 🚀 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/PRONOI/ALONE-SPAM"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 # 𝐒𝐓𝐑𝐈𝐍𝐆 𝐒𝐄𝐒𝐒𝐈𝐎𝐍🔥
