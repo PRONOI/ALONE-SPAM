@@ -1054,8 +1054,8 @@ async def spam(e):
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
         smex = await e.get_reply_message()
-        rizoel = "".join(e.text.split(maxsplit=1)[1:]).split(" ", 2)
-        rizoelop = Alone[1:]
+        Alone = "".join(e.text.split(maxsplit=1)[1:]).split(" ", 2)
+        Alone = Alone[1:]
         if len(rizoelop) == 2:
             message = str(Alone[1])
             counter = int(Alone[0])
