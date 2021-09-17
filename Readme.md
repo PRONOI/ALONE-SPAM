@@ -9,12 +9,11 @@ Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
   <a href="https://github.com/PRONOI/ALONE-SPAM/fork">
-    <img src="https://img.shields.io/https://github.com/PRONOI/ALONE-SPAM?label=Fork&style=social">
+    <img src="https://img.shields.io/github.com/PRONOI/ALONE-SPAM?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/PRONOI/ALONE-SPAM">
     <img src="https://img.shields.io/github/stars/PRONOI/ALONE-SPAM?style=social">
-    <img src="https://img.shields.io/github/fork/PRONOI/ALONE-SPAM?style=social">
   </a>
 </p>
  
