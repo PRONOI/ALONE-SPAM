@@ -5,7 +5,7 @@
 </p>
 
 # ᴄʀᴇᴀᴛᴏʀ
-Before clicking on deploy to heroku just click on fork and star just below
+𝐁𝐞𝐟𝐨𝐫𝐞 𝐜𝐥𝐢𝐜𝐤𝐢𝐧𝐠 𝐨𝐧 𝐝𝐞𝐩𝐥𝐨𝐲 𝐭𝐨 𝐡𝐞𝐫𝐨𝐤𝐮 𝐣𝐮𝐬𝐭 𝐜𝐥𝐢𝐜𝐤 𝐨𝐧 𝐟𝐨𝐫𝐤 𝐚𝐧𝐝 𝐬𝐭𝐚𝐫 𝐣𝐮𝐬𝐭 𝐛𝐞𝐥𝐨𝐰
 
 <p align="center">
   <a href="https://github.com/PRONOI/ALONE-SPAM/fork">
