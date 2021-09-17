@@ -4,7 +4,7 @@
   <img src="https://telegra.ph/file/439b85f6fce810d1a8cf4.jpg">
 </p>
 
-# ᴄʀᴇᴀᴛᴏʀ
+# 𝐆𝐈𝐕𝐄 𝐔𝐑 💙
 𝐁𝐞𝐟𝐨𝐫𝐞 𝐜𝐥𝐢𝐜𝐤𝐢𝐧𝐠 𝐨𝐧 𝐝𝐞𝐩𝐥𝐨𝐲 𝐭𝐨 𝐡𝐞𝐫𝐨𝐤𝐮 𝐣𝐮𝐬𝐭 𝐜𝐥𝐢𝐜𝐤 𝐨𝐧 𝐟𝐨𝐫𝐤 𝐚𝐧𝐝 𝐬𝐭𝐚𝐫 𝐣𝐮𝐬𝐭 𝐛𝐞𝐥𝐨𝐰
 
 <p align="center">
@@ -27,7 +27,7 @@
    
 - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/MrRizoel/RiZoeLSpamBot)](https://replit.com/@RiZoeL/RiZoeL-Spam-bot)
 
-# 𝐢𝐅 𝐔 𝐋𝐈𝐊𝐄 𝐓𝐇𝐈𝐒 𝐑𝐄𝐏𝐎,𝐓𝐇𝐀𝐍 𝐆𝐈𝐕𝐄 𝐀 𝐇𝐄𝐀𝐑𝐓 𝐏𝐋𝐄𝐀𝐒𝐄🖤
+# 𝐢𝐅 𝐔 𝐋𝐈𝐊𝐄 𝐓𝐇𝐈𝐒 𝐑𝐄𝐏𝐎,𝐓𝐇𝐀𝐍 𝐆𝐈𝐕𝐄 𝐀 𝐇𝐄𝐀𝐑𝐓 𝐏𝐋𝐄𝐀𝐒𝐄.
 
 </details>
 
