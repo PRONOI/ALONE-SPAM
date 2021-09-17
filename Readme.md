@@ -22,9 +22,9 @@
 
 <details>
 
-  <summary> • CREDITS • </summary>
+  <summary> • 𝐂𝐑𝐄𝐃𝐈𝐓 • </summary>
 <h2 align="center"> <a href="https://github.com/MrRizoel/RiZoeLBotSpam">💥 𝐑𝐢𝐙𝐨𝐞𝐋 💥</a></h2>
- One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
+ 𝐓𝐡𝐧𝐱 𝐭𝐨 𝐑𝐢𝐙𝐨𝐞𝐋 𝐓𝐞𝐚𝐦 𝐟𝐨𝐫 𝐠𝐢𝐯𝐢𝐧𝐠 𝐜𝐨𝐝𝐞𝐬🔥
 
 </details>
 
