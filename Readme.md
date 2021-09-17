@@ -29,7 +29,7 @@
 </details>
 <details>
 
-  <summary> • 𝐂𝐑𝐄𝐀𝐓𝐎𝐑 • </summary>
+  <summary> • ᴄʀᴇᴀᴛᴏʀ • </summary>
 
 [![telegram badge](https://img.shields.io/badge/𝐀𝐋𝐎𝐍𝐄-30302f?style=for-the-badge&logo=telegram)](https://t.me/ALONExBOY)
     ᯓ𝐅𝐨𝐫 𝐀𝐧𝐲 𝐐𝐮𝐞𝐫𝐢𝐞𝐬,𝐓𝐡𝐞𝐧 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐢 𝐰𝐢𝐥𝐥 𝐬𝐮𝐫𝐞 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮✨
