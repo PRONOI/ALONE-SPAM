@@ -5,7 +5,7 @@
 </p>
 
 # ᴄʀᴇᴀᴛᴏʀ
- [![telegram badge](https://img.shields.io/badge/𝐀𝐋𝐎𝐍𝐄-30302f?style=for-the-badge&logo=telegram)](https://t.me/ALONExBOY)
+ 
 # ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ 
 # 𝐃𝐞𝐩𝐥𝐨𝐲 𝐮𝐩 𝐭𝐨 𝟐𝟓 𝐛𝐨𝐭 𝐢𝐧 𝐨𝐧𝐞 𝐭𝐢𝐦𝐞🤍
 ## 🚀 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔
@@ -29,7 +29,7 @@
 </details>
 <details>
 
-  <summary> • ᴄʀᴇᴀᴛᴏʀ • </summary>
+  <summary> • 𝐂𝐑𝐄𝐀𝐓𝐎𝐑 • </summary>
 
 [![telegram badge](https://img.shields.io/badge/𝐀𝐋𝐎𝐍𝐄-30302f?style=for-the-badge&logo=telegram)](https://t.me/ALONExBOY)
     ᯓ𝐅𝐨𝐫 𝐀𝐧𝐲 𝐐𝐮𝐞𝐫𝐢𝐞𝐬,𝐓𝐡𝐞𝐧 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐢 𝐰𝐢𝐥𝐥 𝐬𝐮𝐫𝐞 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮✨
