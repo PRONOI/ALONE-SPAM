@@ -779,7 +779,7 @@ async def _(e):
     if e.sender_id in SMEX_USERS:
         rizoel = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)     
         if len(e.text) > 5:
-            bio = str(rizoel[0])
+            bio = str(Alone[0])
             text = "Changing Bio"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
@@ -826,7 +826,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("𝐉𝐨𝐢𝐧 𝐇𝐨𝐠𝐲𝐚 𝐒𝐢𝐫")
+                await event.edit("𝐉𝐨𝐢𝐧 𝐡𝐨𝐠𝐲𝐚 𝐚𝐛𝐛 𝐛𝐭𝐚 𝐤𝐢𝐬𝐤𝐢 𝐦𝐚 𝐜𝐡𝐨𝐝𝐧𝐚 𝐡𝐚😈")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1561,12 +1561,7 @@ async def help(e):
     
         
 text = """
-┏━━┓━━┏━━━┓━━━━━━━━┏┓━
-┃┏┓┃┏┓┃┏━┓┃━━━━━━━━┃┃━
-┃┗┛┃┗┛┗┛━┛┃┏━━┓┏━━┓┃┃━
-┃━━┛┏┓┃┏━┏┓┃┏┓┃┃┏┓┃┃┃━
-┃┃┃┃┃┃┃┗━┛┃┃┗┛┃┃┃━┫┃┗━┓
-┗┛┗┛┗┛┗━━━┛┗━━┛┗━━┛┗━━┛"""
+ALONE"""
 
 print(text)
 print("")
