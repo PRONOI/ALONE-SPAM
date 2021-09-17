@@ -30,7 +30,7 @@
 <details>
 
   <summary> • THE NORMAL WAY • </summary>
- [![telegram badge](https://img.shields.io/badge/𝐀𝐋𝐎𝐍𝐄-30302f?style=for-the-badge&logo=telegram)](https://t.me/ALONExBOY)
+(https://img.shields.io/badge/𝐀𝐋𝐎𝐍𝐄-30302f?style=for-the-badge&logo=telegram)](https://t.me/ALONExBOY)
 
 
 
