@@ -17,3 +17,6 @@
 - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/MrRizoel/RiZoeLSpamBot)](https://replit.com/@RiZoeL/RiZoeL-Spam-bot)
 
 # 𝐢𝐅 𝐔 𝐋𝐈𝐊𝐄 𝐓𝐇𝐈𝐒 𝐑𝐄𝐏𝐎,𝐓𝐇𝐀𝐍 𝐆𝐈𝐕𝐄 𝐀 𝐇𝐄𝐀𝐑𝐓 𝐏𝐋𝐄𝐀𝐒𝐄🖤
+<summary> • 𝐂𝐑𝐄𝐃𝐈𝐓 • </summary>
+<h2 align="center"> <a href="https://github.com/MrRizoel/RiZoeLBotSpam">🔥  𝐑𝐢𝐙𝐨𝐞𝐋  🔥</a></h2>
+ 🕯️𝐓𝐡𝐧𝐱 𝐭𝐨 𝐑𝐢𝐙𝐨𝐞𝐋 𝐓𝐞𝐚𝐦 𝐟𝐨𝐫 𝐠𝐢𝐯𝐢𝐧𝐠 𝐜𝐨𝐝𝐞𝐬🕯️
