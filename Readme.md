@@ -28,6 +28,6 @@
 
 </details>
 <summary> • 𝐂𝐑𝐄𝐃𝐈𝐓 • </summary>
- [![telegram badge](https://img.shields.io/badge/𝐀𝐋𝐎𝐍𝐄-30302f?style=for-the-badge&logo=telegram)](https://t.me/ALONExBOY)
+ <h2 align="center"> [![telegram badge](https://img.shields.io/badge/𝐀𝐋𝐎𝐍𝐄-30302f?style=for-the-badge&logo=telegram)](https://t.me/ALONExBOY)
 
 
