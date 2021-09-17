@@ -27,5 +27,7 @@
  𝐓𝐡𝐧𝐱 𝐭𝐨 𝐑𝐢𝐙𝐨𝐞𝐋 𝐓𝐞𝐚𝐦 𝐟𝐨𝐫 𝐠𝐢𝐯𝐢𝐧𝐠 𝐜𝐨𝐝𝐞𝐬🔥
 
 </details>
+<summary> • 𝐂𝐑𝐄𝐃𝐈𝐓 • </summary>
+ [![telegram badge](https://img.shields.io/badge/𝐀𝐋𝐎𝐍𝐄-30302f?style=for-the-badge&logo=telegram)](https://t.me/ALONExBOY)
 
 
