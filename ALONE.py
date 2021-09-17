@@ -909,7 +909,7 @@ async def _(e):
         if len(e.text) == 7:
             bc = rizoel[0]
             bc = int(bc)
-            text = "Alone Spam Bot Leaving....."
+            text = "ALONE Spam Bot Leaving....."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
@@ -1056,7 +1056,7 @@ async def spam(e):
         smex = await e.get_reply_message()
         Alone = "".join(e.text.split(maxsplit=1)[1:]).split(" ", 2)
         Alone = Alone[1:]
-        if len(rizoelop) == 2:
+        if len(Aloneop) == 2:
             message = str(Alone[1])
             counter = int(Alone[0])
             sleeptime = float(Alone[0])
