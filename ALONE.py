@@ -261,8 +261,8 @@ async def start_rizoel():
         try:
             print("Booting Up The Client 7")
             await bdk.start()
-            await bdk(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
-            await bdk(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
+            await bdk(functions.channels.JoinChannelRequest(channel=""))
+            await bdk(functions.channels.JoinChannelRequest(channel=""))
             botme = await bdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
