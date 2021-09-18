@@ -793,7 +793,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.account.UpdateProfileRequest(about=bio))
-                await event.edit("Succesfully Changed Bio By RiZoeL Spam Bot")
+                await event.edit("Succesfully Changed Bio By ALONE Spam Bot")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -879,7 +879,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("𝐉𝐨𝐢𝐧 𝐇𝐨𝐠𝐲𝐚 𝐒𝐢𝐫")
+                await event.edit("𝐇𝐎𝐆𝐘𝐀 𝐉𝐎𝐈𝐍 𝐀𝐁𝐁 𝐁𝐓𝐎𝐎𝐎 𝐊𝐈𝐒𝐊𝐈 𝐌𝐀 𝐂𝐇𝐎𝐃𝐀😈")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -918,7 +918,7 @@ async def _(e):
         if len(e.text) == 7:
             bc = rizoel[0]
             bc = int(bc)
-            text = "RiZoeL Spam Bot Leaving....."
+            text = "ALONE Spam Bot Leaving....."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
