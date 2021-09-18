@@ -115,7 +115,6 @@ async def start_rizoel():
             await idk(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await idk(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
             await idk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await idk(functions.channels.JoinChannelRequest(channel=""))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -141,7 +140,6 @@ async def start_rizoel():
             await ydk(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await ydk(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
             await ydk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await ydk(functions.channels.JoinChannelRequest(channel=""))
             botme = await ydk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -167,7 +165,6 @@ async def start_rizoel():
             await  wdk.start()
             await wdk(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await wdk(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
-            await wdk(functions.channels.JoinChannelRequest(channel=""))
             botme = await wdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -194,7 +191,6 @@ async def start_rizoel():
             await hdk(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await hdk(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
             await hdk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await hdk(functions.channels.JoinChannelRequest(channel="@Romantic_Vibe"))
             botme = await hdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -220,7 +216,6 @@ async def start_rizoel():
             await sdk.start()
             await sdk(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await sdk(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
-            await sdk(functions.channels.JoinChannelRequest(channel=""))
             botme = await sdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -246,7 +241,6 @@ async def start_rizoel():
             await adk.start()
             await adk(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await adk(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
-            await adk(functions.channels.JoinChannelRequest(channel=""))
             botme = await adk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -272,7 +266,6 @@ async def start_rizoel():
             await bdk.start()
             await bdk(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await bdk(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
-            await bdk(functions.channels.JoinChannelRequest(channel=""))
             botme = await bdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -299,7 +292,6 @@ async def start_rizoel():
             await cdk.start()
             await cdk(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await cdk(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
-            await cdk(functions.channels.JoinChannelRequest(channel=""))
             botme = await cdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -325,7 +317,6 @@ async def start_rizoel():
             await ddk.start()
             await ddk(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await ddk(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
-            await ddk(functions.channels.JoinChannelRequest(channel=""))
             botme = await ddk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -353,7 +344,6 @@ async def start_rizoel():
             await edk(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await edk(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
             await edk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await edk(functions.channels.JoinChannelRequest(channel=""))
             botme = await edk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -380,7 +370,6 @@ async def start_rizoel():
             await vkk.start()
             await vkk(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await vkk(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
-            await vkk(functions.channels.JoinChannelRequest(channel=""))
             botme = await vkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -407,7 +396,6 @@ async def start_rizoel():
             await kkk.start()
             await kkk(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await kkk(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
-            await kkk(functions.channels.JoinChannelRequest(channel=""))
             botme = await kkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -435,7 +423,6 @@ async def start_rizoel():
             await lkk(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
             await lkk(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await lkk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await lkk(functions.channels.JoinChannelRequest(channel=""))
             botme = await lkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -462,7 +449,6 @@ async def start_rizoel():
             await mkk.start()
             await mkk(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await mkk(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
-            await mkk(functions.channels.JoinChannelRequest(channel=""))
             botme = await mkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -489,7 +475,6 @@ async def start_rizoel():
             await sid.start()
             await sid(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await sid(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
-            await sid(functions.channels.JoinChannelRequest(channel=""))
             botme = await sid.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -517,7 +502,6 @@ async def start_rizoel():
             botme = await shy.get_me()
             await shy(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await shy(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
-            await shy(functions.channels.JoinChannelRequest(channel=""))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -542,7 +526,6 @@ async def start_rizoel():
             botme = await aan.get_me()
             await aan(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
             await aan(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
-            await ann(functions.channels.JoinChannelRequest(channel=""))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -810,7 +793,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.account.UpdateProfileRequest(about=bio))
-                await event.edit("Succesfully Changed Bio By ALONE Spam Bot")
+                await event.edit("Succesfully Changed Bio By RiZoeL Spam Bot")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -852,7 +835,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("𝐇𝐎𝐆𝐘𝐀 𝐉𝐎𝐈𝐍 𝐀𝐁𝐁 𝐁𝐓𝐎𝐎𝐎 𝐊𝐈𝐒𝐊𝐈 𝐌𝐀 𝐂𝐇𝐎𝐃𝐀😈")
+                await event.edit("𝐉𝐨𝐢𝐧 𝐇𝐨𝐠𝐲𝐚 𝐒𝐢𝐫")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -896,7 +879,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("𝐇𝐎𝐆𝐘𝐀 𝐉𝐎𝐈𝐍 𝐀𝐁𝐁 𝐁𝐓𝐎𝐎𝐎 𝐊𝐈𝐒𝐊𝐈 𝐌𝐀 𝐂𝐇𝐎𝐃𝐀😈")
+                await event.edit("𝐉𝐨𝐢𝐧 𝐇𝐨𝐠𝐲𝐚 𝐒𝐢𝐫")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1546,7 +1529,7 @@ async def restart(e):
 @put.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
 async def alive(e):
     if e.sender_id in SMEX_USERS:
-        text = "★ 𝐀𝐋𝐎𝐍𝐄 𝐌𝐔𝐋𝐓𝐈 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 ★\n\n𝐀𝐋𝐎𝐍𝐄 𝐒𝐏𝐀𝐌 𝐈𝐒 𝐀𝐋𝐈𝐕𝐄 !!\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : @ALONExSAD_BiO\n ┣➣ ᴄʀᴇᴀᴛᴇʀ :  𓆩᪵✰⁣⃝🇦⃪‌ℓ‌ο‌ทє𝆕✰⁣𓆪‌ \n ┗━━━━━━━━━━━━━━━━━━━\n "
+        text = " ♡︎ 𝐑ɪ𝐙ᴏᴇ𝐋 𝐌ᴜʟᴛ𝐈 𝐒ᴘᴀ𝐌 𝐁ᴏ𝐓 ♡︎\n\n\n 𝐑ɪ𝐙ᴏᴇ𝐋 𝐒ᴘᴀᴍ ɪs 𝐀ʟɪᴠᴇ !!\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : @DNHxHELL\n ┣➣ ᴄʀᴇᴀᴛᴇʀ : 𝗥𝗶𝗭𝗼𝗲𝗟\n ┗━━━━━━━━━━━━━━━━━━━\n "
         await e.reply(text, parse_mode=None, link_preview=None )
 
                         
@@ -1578,7 +1561,7 @@ async def alive(e):
 
 async def help(e):
     if e.sender_id in SMEX_USERS:
-       text = "𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐂𝐎𝐌𝐌𝐌𝐀𝐍𝐃𝐒 𝐈𝐍 𝐀𝐋𝐎𝐍𝐄 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 \n\n𝐔𝐓𝐈𝐋𝐒 𝐂𝐎𝐌𝐌𝐀𝐍𝐃:\n.alive\n.ping\n.restart\n\n𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐂𝐎𝐌𝐌𝐀𝐍𝐃:\n.bio\n.join\n.leave\n.pjoin\n.pleave\n\n𝐒𝐏𝐀𝐌 𝐂𝐎𝐌𝐌𝐀𝐍𝐃:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
+       text = "𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐂𝐎𝐌𝐌𝐌𝐀𝐍𝐃𝐒 𝐈𝐍 𝐑𝐢𝐙𝐨𝐞𝐋 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 \n\n𝐔𝐓𝐈𝐋𝐒 𝐂𝐎𝐌𝐌𝐀𝐍𝐃:\n.alive\n.ping\n.restart\n\n𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐂𝐎𝐌𝐌𝐀𝐍𝐃:\n.bio\n.join\n.leave\n.pjoin\n.pleave\n\n𝐒𝐏𝐀𝐌 𝐂𝐎𝐌𝐌𝐀𝐍𝐃:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
        await e.reply(text, parse_mode=None, link_preview=None )
 
         
@@ -1586,11 +1569,16 @@ async def help(e):
     
         
 text = """
-𝐀𝐥𝐨𝐧𝐞 𝐒𝐩𝐚𝐦 𝐁𝐨𝐭 𝐬𝐭𝐚𝐫𝐭𝐞𝐝 𝐬𝐮𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲."""
+┏━━┓━━┏━━━┓━━━━━━━━┏┓━
+┃┏┓┃┏┓┃┏━┓┃━━━━━━━━┃┃━
+┃┗┛┃┗┛┗┛━┛┃┏━━┓┏━━┓┃┃━
+┃━━┛┏┓┃┏━┏┓┃┏┓┃┃┏┓┃┃┃━
+┃┃┃┃┃┃┃┗━┛┃┃┗┛┃┃┃━┫┃┗━┓
+┗┛┗┛┗┛┗━━━┛┗━━┛┗━━┛┗━━┛"""
 
 print(text)
 print("")
-print(" 𝐓𝐑𝐘 .alive .ping")
+print("SMEX! Rɪᴢᴏᴇʟ Multi Spam Bot Started Sucessfully.")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
