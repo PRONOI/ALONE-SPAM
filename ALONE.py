@@ -835,7 +835,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("𝐉𝐨𝐢𝐧 𝐇𝐨𝐠𝐲𝐚 𝐒𝐢𝐫")
+                await event.edit("𝐇𝐎𝐆𝐘𝐀 𝐉𝐎𝐈𝐍 𝐀𝐁𝐁 𝐁𝐓𝐎𝐎𝐎 𝐊𝐈𝐒𝐊𝐈 𝐌𝐀 𝐂𝐇𝐎𝐃𝐀😈")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1529,8 +1529,13 @@ async def restart(e):
 @put.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
 async def alive(e):
     if e.sender_id in SMEX_USERS:
-        text = " ♡︎ 𝐑ɪ𝐙ᴏᴇ𝐋 𝐌ᴜʟᴛ𝐈 𝐒ᴘᴀ𝐌 𝐁ᴏ𝐓 ♡︎\n\n\n 𝐑ɪ𝐙ᴏᴇ𝐋 𝐒ᴘᴀᴍ ɪs 𝐀ʟɪᴠᴇ !!\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : @DNHxHELL\n ┣➣ ᴄʀᴇᴀᴛᴇʀ : 𝗥𝗶𝗭𝗼𝗲𝗟\n ┗━━━━━━━━━━━━━━━━━━━\n "
-        await e.reply(text, parse_mode=None, link_preview=None )
+        text = " ★ 𝐀𝐋𝐎𝐍𝐄 𝐌𝐔𝐋𝐓𝐈 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 ★
+
+𝐀𝐋𝐎𝐍𝐄 𝐒𝐏𝐀𝐌 𝐈𝐒 𝐀𝐋𝐈𝐕𝐄 !! ┏━━━━━━━━━━━━━━━━━━ ┣➣ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6 
+┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17   
+┣➣sᴜᴘᴘᴏʀᴛ : @ALONExSAD_BiO
+┣➣ ᴄʀᴇᴀᴛᴇʀ :  𓆩᪵✰⁣⃝🇦⃪‌ℓ‌ο‌ทє𝆕✰⁣𓆪‌  ┗━━━━━━━━━━━━━━━━━━━
+await e.reply(text, parse_mode=None, link_preview=None )
 
                         
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.help"))
@@ -1561,7 +1566,7 @@ async def alive(e):
 
 async def help(e):
     if e.sender_id in SMEX_USERS:
-       text = "𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐂𝐎𝐌𝐌𝐌𝐀𝐍𝐃𝐒 𝐈𝐍 𝐑𝐢𝐙𝐨𝐞𝐋 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 \n\n𝐔𝐓𝐈𝐋𝐒 𝐂𝐎𝐌𝐌𝐀𝐍𝐃:\n.alive\n.ping\n.restart\n\n𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐂𝐎𝐌𝐌𝐀𝐍𝐃:\n.bio\n.join\n.leave\n.pjoin\n.pleave\n\n𝐒𝐏𝐀𝐌 𝐂𝐎𝐌𝐌𝐀𝐍𝐃:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
+       text = "𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐂𝐎𝐌𝐌𝐌𝐀𝐍𝐃𝐒 𝐈𝐍 𝐀𝐋𝐎𝐍𝐄 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 \n\n𝐔𝐓𝐈𝐋𝐒 𝐂𝐎𝐌𝐌𝐀𝐍𝐃:\n.alive\n.ping\n.restart\n\n𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐂𝐎𝐌𝐌𝐀𝐍𝐃:\n.bio\n.join\n.leave\n.pjoin\n.pleave\n\n𝐒𝐏𝐀𝐌 𝐂𝐎𝐌𝐌𝐀𝐍𝐃:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
        await e.reply(text, parse_mode=None, link_preview=None )
 
         
@@ -1569,16 +1574,11 @@ async def help(e):
     
         
 text = """
-┏━━┓━━┏━━━┓━━━━━━━━┏┓━
-┃┏┓┃┏┓┃┏━┓┃━━━━━━━━┃┃━
-┃┗┛┃┗┛┗┛━┛┃┏━━┓┏━━┓┃┃━
-┃━━┛┏┓┃┏━┏┓┃┏┓┃┃┏┓┃┃┃━
-┃┃┃┃┃┃┃┗━┛┃┃┗┛┃┃┃━┫┃┗━┓
-┗┛┗┛┗┛┗━━━┛┗━━┛┗━━┛┗━━┛"""
+𝐀𝐋𝐎𝐍𝐄"""
 
 print(text)
 print("")
-print("SMEX! Rɪᴢᴏᴇʟ Multi Spam Bot Started Sucessfully.")
+print("SMEX! 𝐀𝐋𝐎𝐍𝐄 Multi Spam Bot Started Sucessfully.")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
