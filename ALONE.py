@@ -852,7 +852,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("𝐉𝐨𝐢𝐧 𝐇𝐨𝐠𝐲𝐚 𝐒𝐢𝐫")
+                await event.edit("𝐇𝐎𝐆𝐘𝐀 𝐉𝐎𝐈𝐍 𝐀𝐁𝐁 𝐁𝐓𝐎𝐎𝐎 𝐊𝐈𝐒𝐊𝐈 𝐌𝐀 𝐂𝐇𝐎𝐃𝐀😈")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -896,7 +896,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("𝐉𝐨𝐢𝐧 𝐇𝐨𝐠𝐲𝐚 𝐒𝐢𝐫")
+                await event.edit("𝐇𝐎𝐆𝐘𝐀 𝐉𝐎𝐈𝐍 𝐀𝐁𝐁 𝐁𝐓𝐎𝐎𝐎 𝐊𝐈𝐒𝐊𝐈 𝐌𝐀 𝐂𝐇𝐎𝐃𝐀😈")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1546,7 +1546,7 @@ async def restart(e):
 @put.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
 async def alive(e):
     if e.sender_id in SMEX_USERS:
-        text = " ♡︎ 𝐑ɪ𝐙ᴏᴇ𝐋 𝐌ᴜʟᴛ𝐈 𝐒ᴘᴀ𝐌 𝐁ᴏ𝐓 ♡︎\n\n\n 𝐑ɪ𝐙ᴏᴇ𝐋 𝐒ᴘᴀᴍ ɪs 𝐀ʟɪᴠᴇ !!\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : @DNHxHELL\n ┣➣ ᴄʀᴇᴀᴛᴇʀ : 𝗥𝗶𝗭𝗼𝗲𝗟\n ┗━━━━━━━━━━━━━━━━━━━\n "
+        text = "★ 𝐀𝐋𝐎𝐍𝐄 𝐌𝐔𝐋𝐓𝐈 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 ★\n\n𝐀𝐋𝐎𝐍𝐄 𝐒𝐏𝐀𝐌 𝐈𝐒 𝐀𝐋𝐈𝐕𝐄 !!\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : @ALONExSAD_BiO\n ┣➣ ᴄʀᴇᴀᴛᴇʀ :  𓆩᪵✰⁣⃝🇦⃪‌ℓ‌ο‌ทє𝆕✰⁣𓆪‌ \n ┗━━━━━━━━━━━━━━━━━━━\n "
         await e.reply(text, parse_mode=None, link_preview=None )
 
                         
@@ -1586,16 +1586,11 @@ async def help(e):
     
         
 text = """
-┏━━┓━━┏━━━┓━━━━━━━━┏┓━
-┃┏┓┃┏┓┃┏━┓┃━━━━━━━━┃┃━
-┃┗┛┃┗┛┗┛━┛┃┏━━┓┏━━┓┃┃━
-┃━━┛┏┓┃┏━┏┓┃┏┓┃┃┏┓┃┃┃━
-┃┃┃┃┃┃┃┗━┛┃┃┗┛┃┃┃━┫┃┗━┓
-┗┛┗┛┗┛┗━━━┛┗━━┛┗━━┛┗━━┛"""
+𝐀𝐥𝐨𝐧𝐞 𝐒𝐩𝐚𝐦 𝐁𝐨𝐭 𝐬𝐭𝐚𝐫𝐭𝐞𝐝 𝐬𝐮𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲."""
 
 print(text)
 print("")
-print("SMEX! Rɪᴢᴏᴇʟ Multi Spam Bot Started Sucessfully.")
+print(" 𝐓𝐑𝐘 .alive .ping")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
